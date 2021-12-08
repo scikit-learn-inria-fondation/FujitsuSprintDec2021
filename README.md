@@ -1,5 +1,9 @@
 # Scikit-learn Dev Sprint Japan Dec 15th-17th 2021
 
+## 登録
+
+事前の登録が必要です：[Google Form: Scikit-learn DevSprint Japan 2021 Autumn](https://docs.google.com/forms/d/e/1FAIpQLSfTSX9WCwGScQwyEAFpjGNtZjqIy0uyLoNXCyaQYFmFVMc8cg/viewform)
+
 ## スケジュール
 
 ### 12月15日(水) ワークショップ
