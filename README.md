@@ -23,14 +23,22 @@
   - 10:10-(18:00) Issueの解決とPRの作成
     - 夕方より、scikit-learnのコアデベロッパ合流
 
-### 開催場所 Discord
+## 開催場所 Discord
+
 - 招待URLが参加者に送られています。問題があれば、ご連絡ください。
 - Discordデスクトップアプリケーションを使用して、Discordに登録することをお勧めします
 - ブラウザから直接参加する方は登録の必要がなく、仮アカウントが割り当てられます。
 - 上記の招待リンクに記載されている指示に従ってください。 
 - VPNなどがDiscordの通信を遮断することがありますのでご注意ください
 
-### Issues
+## Scikit-learnチュートリアルと環境設定
+
+- [Scikit-learnチュートリアル](https://github.com/scikit-learn-inria-fondation/FujitsuSprintMay2021/blob/main/scikit-learn-intro)
+  このチュートリアルは、MOOCコース 「[Machine learning with scikit-learn](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/)」 の資料に基づいており、Creative Commons Attribution-ShareAlike 4.0ライセンスされています。
+- [環境設定](https://github.com/scikit-learn-inria-fondation/FujitsuSprintMay2021/blob/main/dev-setup)
+  このディレクトリには、scikit-learnの「[Contribute](https://scikit-learn.org/stable/developers/contributing.html)」 ガイドの部分的な翻訳と、開発環境をすばやく設定するためのBashスクリプトがあります。
+  
+## Issues
 
 - [Sprint Issue Board](https://github.com/scikit-learn-inria-fondation/FujitsuSprintDec2021/projects/1)
   ここにいくつのissueがリンクされています。特にメタイシュー（いくつのタスクを合わせるイシュー）
