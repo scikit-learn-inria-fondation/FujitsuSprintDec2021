@@ -44,6 +44,6 @@
   ここにいくつのissueがリンクされています。特にメタイシュー（いくつのタスクを合わせるイシュー）
 - [good first issues](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue)
 - [easy issues](https://github.com/scikit-learn/scikit-learn/labels/Easy) （たまに簡単でない）
-- [help wanted](https://github.com/scikit-learn/scikit-learn/labels/help%20wanted) （たまに簡単でない）
+- [help wanted](https://github.com/scikit-learn/scikit-learn/labels/help%20wanted)
 - [すべてのIssue](https://github.com/scikit-learn/scikit-learn/issues)
 
