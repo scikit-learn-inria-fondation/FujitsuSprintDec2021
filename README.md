@@ -30,4 +30,12 @@
 - 上記の招待リンクに記載されている指示に従ってください。 
 - VPNなどがDiscordの通信を遮断することがありますのでご注意ください
 
+### Issues
+
+- [Sprint Issue Board](https://github.com/scikit-learn-inria-fondation/FujitsuSprintDec2021/projects/1)
+  ここにいくつのissueがリンクされています。特にメタイシュー（いくつのタスクを合わせるイシュー）
+- [good first issues](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue)
+- [easy issues](https://github.com/scikit-learn/scikit-learn/labels/Easy) （たまに簡単でない）
+- [help wanted](https://github.com/scikit-learn/scikit-learn/labels/help%20wanted) （たまに簡単でない）
+- [すべてのIssue](https://github.com/scikit-learn/scikit-learn/issues)
 
