@@ -33,9 +33,9 @@
 
 ## Scikit-learnチュートリアルと環境設定
 
-- [Scikit-learnチュートリアル](https://github.com/scikit-learn-inria-fondation/FujitsuSprintMay2021/blob/main/scikit-learn-intro)
+- [Scikit-learnチュートリアル](https://github.com/scikit-learn-inria-fondation/FujitsuSprintDec2021/blob/main/scikit-learn-intro)
   このチュートリアルは、MOOCコース 「[Machine learning with scikit-learn](https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/)」 の資料に基づいており、Creative Commons Attribution-ShareAlike 4.0ライセンスされています。
-- [環境設定](https://github.com/scikit-learn-inria-fondation/FujitsuSprintMay2021/blob/main/dev-setup)
+- [環境設定](https://github.com/scikit-learn-inria-fondation/FujitsuSprintDec2021/blob/main/dev-setup)
   このディレクトリには、scikit-learnの「[Contribute](https://scikit-learn.org/stable/developers/contributing.html)」 ガイドの部分的な翻訳と、開発環境をすばやく設定するためのBashスクリプトがあります。
   
 ## Issues
